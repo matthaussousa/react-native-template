@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@routers": ["./src/routers"],
+      "@assets": ["./src/assets"],
+      "@components": ["./src/components"],
+      "@containers": ["./src/containers"],
+      "@themes": ["./src/themes"]
+    }
+  }
+}

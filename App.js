@@ -6,7 +6,7 @@ import thunk from "redux-thunk";
 import { Provider } from "react-redux";
 
 import { DefaultTheme } from "./src/themes/index";
-import { MainStack } from "./src/routers";
+import { MainStack } from "@routers";
 import { Home } from "./src/containers";
 import reducers from "./src/reducers";
 
